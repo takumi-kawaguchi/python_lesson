@@ -1,0 +1,2 @@
+class AvoidErrorByPass(Exception):
+    pass
